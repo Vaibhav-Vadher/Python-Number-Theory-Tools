@@ -14,9 +14,13 @@ This repository contains multiple Python programs that perform various operation
 8. **TableFromtoUpto**: Generate multiplication tables for a number within a specified range.
 
 Features ✨
+
 Simple, easy-to-understand Python scripts for different number theory operations.
+
 Modular: Run the script you need, without unnecessary complexity.
+
 Useful for students and developers who want to explore mathematics using Python.
 
 Requirements 🛠
+
 Python 3.x  
