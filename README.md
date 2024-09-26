@@ -1,6 +1,6 @@
 # Python Number Theory Tools 🔢
 
-This repository contains multiple Python scripts that perform various operations related to **number theory** and **numerology**. Each script focuses on a different mathematical concept, and they can be run individually for the corresponding functionality.
+This repository contains multiple Python programs that perform various operations related to **number theory** and **numerology**. Each script focuses on a different mathematical concept, and they can be run individually for the corresponding functionality.
 
 ## Scripts Included 📜
 
@@ -10,7 +10,7 @@ This repository contains multiple Python scripts that perform various operations
 4. **Armstrong**: Verify if a number is an Armstrong number.
 5. **Automorphic**: Check if a number is an Automorphic number.
 6. **Palindrome**: Check if a number is a Palindrome.
-7. **Numerology_2**: Perform numerology operations on a number based on the sum of digits.
+7. **Numerology**: Perform numerology operations on a number based on the sum of digits.
 8. **TableFromtoUpto**: Generate multiplication tables for a number within a specified range.
 
 Features ✨
